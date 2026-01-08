@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Project
 E-Commerce
 A simple React project built using  ** react + Vite**
